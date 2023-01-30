@@ -1,6 +1,6 @@
-/*
 
-rectangle
+
+//rectangle
 
 #include<iostream>
 using namespace std;
@@ -248,7 +248,7 @@ int main()
 }
 
 //palindromic triangle
-*/
+
 
 //diamond
 
