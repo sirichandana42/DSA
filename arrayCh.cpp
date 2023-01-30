@@ -1,4 +1,4 @@
-/*
+
 //maximum of all
 #include<iostream>
 using namespace std;
@@ -412,7 +412,7 @@ int main()
     cin >> key;
     cout<<twopairSum(n,a,key);
 }
-*/
+
 #include <iostream>
 using namespace std;
 int twopairSum(int n, int a[], int key)
